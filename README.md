@@ -33,5 +33,3 @@
 </table>
 
 <br>
-
-<p><a href="mailto:github@qlqqs.com">github@qlqqs.com</a></p>
